@@ -1,5 +1,7 @@
-# hamburguesas, es una app de un menú de comida rápida 
-tecnologías: html, css(bootstrap), javascript 
+# hamburguesas, 
+-es una app de un menú de comida rápida (pronta a actualizarse).
+
+-tecnologías: html, css(bootstrap) 
 
 ![Captura de pantalla (276)](https://github.com/alannieto07/hamburguesas/assets/110429020/154d3e4b-e780-40d5-aa75-14f98dcd1504)
 

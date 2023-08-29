@@ -1,9 +1,9 @@
 # hamburguesas, 
--es una app de un menú de comida rápida (pronta a actualizarse).
+-es una SPA de un menú de comida rápida responsive.
 
--tecnologías: html, css(bootstrap) 
+-tecnologías: html, css(bootstrap). 
 
-![Captura de pantalla (276)](https://github.com/alannieto07/hamburguesas/assets/110429020/154d3e4b-e780-40d5-aa75-14f98dcd1504)
+![Captura de pantalla (290)](https://github.com/alannieto07/hamburguesas/assets/110429020/48ee63cd-73ad-4bad-9e59-5dbe5175c338)
 
-![Captura de pantalla (277)](https://github.com/alannieto07/hamburguesas/assets/110429020/27849434-e492-4eb8-b953-18556646f292)
+![Captura de pantalla (291)](https://github.com/alannieto07/hamburguesas/assets/110429020/dee5f48e-e55a-42c5-8403-916eeead2e58)
 
